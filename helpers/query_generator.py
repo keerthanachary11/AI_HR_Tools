@@ -2,7 +2,7 @@ import httpx
 import os
 import re
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
